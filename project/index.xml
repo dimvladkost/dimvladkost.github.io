@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Dimitar Kostadinov</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Cerebellar cell type classification</title>
+      <link>/project/cell_type_id/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/project/cell_type_id/</guid>
+      <description>&lt;p&gt;In this project, we are combining cell type-specific optogenetics, electrophysiology, and machine learning to develop methods to classify cerebellar neurons based on their unique functional identities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cerebellar learning, fast and slow</title>
+      <link>/project/fast_slow_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/fast_slow_learning/</guid>
+      <description>&lt;p&gt;In this project, I am employing chronic two-photon imaging and computational modelling to investigate changes in teaching signals conveyed to the cerebellum as animals learn and adapt in a sensorimotor integration task.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dendritic gated networks</title>
+      <link>/project/dgn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/dgn/</guid>
+      <description>&lt;p&gt;In this project, I am employing chronic two-photon imaging and computational modelling to investigate changes in teaching signals conveyed to the cerebellum as animals learn and adapt in a sensorimotor integration task.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transformation of Purkinje cell population codes in the cerebellar nuclei</title>
+      <link>/project/pc_cbn_transform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/pc_cbn_transform/</guid>
+      <description>&lt;p&gt;In this project, we are using Neuropixels probes to define how inhibitory Purkinje cell outputs are integrated by principal neurons in the cerebellar nuclei. This project is the primary PhD work of &lt;a href=&#34;https://github.com/m-beau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxime Beau&lt;/a&gt;, a PhD student in the Neural Computation laboratory.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
