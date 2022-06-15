@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biologically plausible learning | Dimitar Kostadinov</title>
-    <link>/tag/biologically-plausible-learning/</link>
-      <atom:link href="/tag/biologically-plausible-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimvladkost.github.io/tag/biologically-plausible-learning/</link>
+      <atom:link href="https://dimvladkost.github.io/tag/biologically-plausible-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Biologically plausible learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dimvladkost.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Biologically plausible learning</title>
-      <link>/tag/biologically-plausible-learning/</link>
+      <link>https://dimvladkost.github.io/tag/biologically-plausible-learning/</link>
     </image>
     
     <item>
       <title>Dendritic gated networks</title>
-      <link>/project/dgn/</link>
+      <link>https://dimvladkost.github.io/project/dgn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/dgn/</guid>
+      <guid>https://dimvladkost.github.io/project/dgn/</guid>
       <description>&lt;p&gt;In this project, I am employing chronic two-photon imaging and computational modelling to investigate changes in teaching signals conveyed to the cerebellum as animals learn and adapt in a sensorimotor integration task.&lt;/p&gt;
 </description>
     </item>

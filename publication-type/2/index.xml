@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Dimitar Kostadinov</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dimvladkost.github.io/publication-type/2/</link>
+      <atom:link href="https://dimvladkost.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dimvladkost.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://dimvladkost.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Reward signals in the cerebellum: Origins, targets, and functional implications</title>
-      <link>/publication/kostadinov2022_perspective/</link>
+      <link>https://dimvladkost.github.io/publication/kostadinov2022_perspective/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/kostadinov2022_perspective/</guid>
+      <guid>https://dimvladkost.github.io/publication/kostadinov2022_perspective/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,25 +37,25 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings</title>
-      <link>/publication/steinmetz2021/</link>
+      <link>https://dimvladkost.github.io/publication/steinmetz2021/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/steinmetz2021/</guid>
+      <guid>https://dimvladkost.github.io/publication/steinmetz2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive and reactive reward signals conveyed by climbing fiber inputs to cerebellar Purkinje cells</title>
-      <link>/publication/kostadinov2019/</link>
+      <link>https://dimvladkost.github.io/publication/kostadinov2019/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/kostadinov2019/</guid>
+      <guid>https://dimvladkost.github.io/publication/kostadinov2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combinatorial effects of alpha-and gamma-protocadherins on neuronal survival and dendritic self-avoidance</title>
-      <link>/publication/ingesteves2018/</link>
+      <link>https://dimvladkost.github.io/publication/ingesteves2018/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/ingesteves2018/</guid>
+      <guid>https://dimvladkost.github.io/publication/ingesteves2018/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -76,17 +76,17 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Satb1 regulates contactin 5 to pattern dendrites of a mammalian retinal ganglion cell</title>
-      <link>/publication/peng2017/</link>
+      <link>https://dimvladkost.github.io/publication/peng2017/</link>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/peng2017/</guid>
+      <guid>https://dimvladkost.github.io/publication/peng2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocadherin-dependent dendritic self-avoidance regulates neural connectivity and circuit function</title>
-      <link>/publication/kostadinov2015/</link>
+      <link>https://dimvladkost.github.io/publication/kostadinov2015/</link>
       <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/kostadinov2015/</guid>
+      <guid>https://dimvladkost.github.io/publication/kostadinov2015/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -107,9 +107,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Protocadherins mediate dendritic self-avoidance in the mammalian nervous system</title>
-      <link>/publication/lefebvre2012/</link>
+      <link>https://dimvladkost.github.io/publication/lefebvre2012/</link>
       <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/lefebvre2012/</guid>
+      <guid>https://dimvladkost.github.io/publication/lefebvre2012/</guid>
       <description></description>
     </item>
     
