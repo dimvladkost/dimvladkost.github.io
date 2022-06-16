@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource | Dimitar Kostadinov</title>
+    <link>https://dimvladkost.github.io/tag/resource/</link>
+      <atom:link href="https://dimvladkost.github.io/tag/resource/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resource</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimvladkost.github.io/media/icon_hu4f0bd1eb3c8c76839337839d88f88ed3_346244_512x512_fill_lanczos_center_3.png</url>
+      <title>Resource</title>
+      <link>https://dimvladkost.github.io/tag/resource/</link>
+    </image>
+    
+    <item>
+      <title>Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings</title>
+      <link>https://dimvladkost.github.io/publication/steinmetz2021/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/publication/steinmetz2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

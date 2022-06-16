@@ -5,12 +5,23 @@
     <link>https://dimvladkost.github.io/project/</link>
       <atom:link href="https://dimvladkost.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimvladkost.github.io/media/icon_hu4f0bd1eb3c8c76839337839d88f88ed3_346244_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://dimvladkost.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Dendritic gated networks: A rapid and efficient learning rule for biological neural circuits</title>
+      <link>https://dimvladkost.github.io/project/dgn/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/project/dgn/</guid>
+      <description>&lt;p&gt;In this project, we introduce a powerful new biologically plausible machine learning algorithm: the Dendritic Gated Network (DGN), a variant of the &lt;a href=&#34;https://doi.org/10.48550/arXiv.1910.01526&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gated Linear Network&lt;/a&gt;.  DGNs combine dendritic ‘gating’ (whereby &amp;lsquo;interneurons&amp;rsquo; target dendrites to shape &amp;rsquo;neuronal&amp;rsquo; responses) with local learning rules to yield provably robust performance. They are significantly more data efficient than conventional artificial networks, and are highly resistant to forgetting. Consequently, they perform well on a variety of tasks, in some cases better than backpropagation.&lt;/p&gt;
+&lt;p&gt;Importantly,  DGNs  have  structural  and  functional  similarities  to cerebellar circuits, where (1) climbing fibers provide a well-defined feedback signal (&lt;a href=&#34;https://doi.org/10.1146/annurev-neuro-080317-061948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raymond and Medina, 2018&lt;/a&gt;), (2) the input-output transformation is relatively linear (&lt;a href=&#34;https://doi.org/10.1113/jphysiol.1980.sp013357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Llinás and Sugimori, 1980&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.1523/jneurosci.4507-05.2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter and Khodakhah, 2006&lt;/a&gt;), and (3) molecular layer interneurons could act as local gates on learning (&lt;a href=&#34;https://doi.org/10.1523/JNEUROSCI.15-04-02777.1995&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callaway et al., 1995&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.7554/eLife.36246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaffield et al., 2018&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.1016/j.tins.2010.08.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jörntell et al., 2010&lt;/a&gt;). To make this link explicit, we have performed two-photon calcium imaging experiments of Purkinje cell dendrites and molecular layer interneurons in awake mice. With these recordings, we demonstrate  that single interneurons suppress activity in individual dendritic branches of Purkinje cells in vivo, validating a  key  feature  of  the  model. Thus, our theoretical and experimental results draw a specific link between learning in DGNs and the functional architecture of the cerebellum. The generality of the DGN architecture should also allow this algorithm to be implemented in a range of networks in the mammalian brain, including the neocortex.&lt;/p&gt;
+&lt;p&gt;This project is a collaboration with researchers at the &lt;a href=&#34;https://www.ucl.ac.uk/gatsby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gatsby Computational Neuroscience Unit&lt;/a&gt; at UCL and &lt;a href=&#34;https://www.deepmind.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google DeepMind&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cerebellar cell type classification</title>
@@ -26,15 +37,6 @@
       <link>https://dimvladkost.github.io/project/fast_slow_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dimvladkost.github.io/project/fast_slow_learning/</guid>
-      <description>&lt;p&gt;In this project, I am employing chronic two-photon imaging and computational modelling to investigate changes in teaching signals conveyed to the cerebellum as animals learn and adapt in a sensorimotor integration task.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dendritic gated networks</title>
-      <link>https://dimvladkost.github.io/project/dgn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimvladkost.github.io/project/dgn/</guid>
       <description>&lt;p&gt;In this project, I am employing chronic two-photon imaging and computational modelling to investigate changes in teaching signals conveyed to the cerebellum as animals learn and adapt in a sensorimotor integration task.&lt;/p&gt;
 </description>
     </item>
