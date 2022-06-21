@@ -5,21 +5,12 @@
     <link>https://dimvladkost.github.io/tag/cerebellar-computation/</link>
       <atom:link href="https://dimvladkost.github.io/tag/cerebellar-computation/index.xml" rel="self" type="application/rss+xml" />
     <description>Cerebellar computation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimvladkost.github.io/media/icon_hu4f0bd1eb3c8c76839337839d88f88ed3_346244_512x512_fill_lanczos_center_3.png</url>
       <title>Cerebellar computation</title>
       <link>https://dimvladkost.github.io/tag/cerebellar-computation/</link>
     </image>
-    
-    <item>
-      <title>Cerebellar cell type classification</title>
-      <link>https://dimvladkost.github.io/project/cell_type_id/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://dimvladkost.github.io/project/cell_type_id/</guid>
-      <description>&lt;p&gt;We are combining cell type-specific optogenetics, electrophysiology, and machine learning to develop methods to classify cerebellar neurons based on their unique functional identities. This project is a collaboration between several cerebellar labs (&lt;a href=&#34;http://www.dendrites.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Häusser Lab&lt;/a&gt;, UCL; &lt;a href=&#34;https://gondabrain.biu.ac.il/en/node/268&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cohen Lab&lt;/a&gt;, Bar Ilan University; &lt;a href=&#34;https://www.bcm.edu/people-search/javier-medina-26564&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medina Lab&lt;/a&gt;, Baylor University; &lt;a href=&#34;https://www.neuro.duke.edu/research/faculty-labs/hull-lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hull&lt;/a&gt; and &lt;a href=&#34;https://www.neuro.duke.edu/research/faculty-labs/lisberger-lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lisberger&lt;/a&gt; Labs, Duke University) using high-density extracellular electrophysiology probes in multiple species (mouse, rat, and macaque). Our aim is to provide a fully integrated open-source toolkit for automatic cell type classification of high-density recordings in the cerebellum that will greatly facilitate a circuit-wide understanding of the contribution of different cell types to cerebellar-dependent behaviours.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Reward signals in the cerebellum: Origins, targets, and functional implications</title>
@@ -45,6 +36,27 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Transformation of Purkinje cell population codes in the cerebellar nuclei</title>
+      <link>https://dimvladkost.github.io/project/pc_cbn_transform/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/project/pc_cbn_transform/</guid>
+      <description>&lt;p&gt;The interplay between Purkinje cells and nuclear cells has been a topic of debate in the cerebellar field for decades. While Purkinje cells are GABAergic, their effect on nuclear output may not be inhibitory, because nuclear neurons exhibit unique biophysical features that make them susceptible to &lt;a href=&#34;https://doi.org/10.1038/nature10732&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;entrainment by artificial stimulation of Purkinje cells&lt;/a&gt;. Whether this entrainment occurs under physiological conditions remains unknown, largely due to the difficulty of recording connected Purkinje cells and nuclear neurons.&lt;/p&gt;
+&lt;p&gt;In this project, we are seeking to settle this debate by making direct recordings of synaptically connected Purkinje cells and nuclear neurons using &lt;a href=&#34;https://en.wikipedia.org/wiki/Neuropixels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neuropixels probes&lt;/a&gt;. This project is the primary PhD work of &lt;a href=&#34;https://github.com/m-beau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxime Beau&lt;/a&gt;, a PhD student in the &lt;a href=&#34;http://www.dendrites.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Computation Laboratory&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cerebellar learning, fast and slow</title>
+      <link>https://dimvladkost.github.io/project/fast_slow_learning/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/project/fast_slow_learning/</guid>
+      <description>&lt;p&gt;Climbing fiber (CF) inputs to cerebellar Purkinje cells (PCs) encode sensorimotor and reward-related instructive signals that are utilized to learn and refine goal-directed behaviors. However, it remains unclear how these instructive signals evolve during the acquisition and refinement phases of learning, whether they target the same PCs, and whether different brain-wide pathways drive functionally distinct populations of CFs.&lt;/p&gt;
+&lt;p&gt;In this project, we used 2-photon calcium imaging to record CF inputs to PCs chronically over weeks while head-fixed mice learned to perform a visuomotor integration task (slow learning). Once mice were experts, we probed fast, adaptive learning by altering the gain between object translation and wheel movement.&lt;/p&gt;
+&lt;p&gt;Our results suggest that instructive CF signals define functionally distinct cerebellar regions: inputs to some cerebellar regions primarily receive sensorimotor instruction and mediates the slow acquisition of goal-directed behaviors, while inputs to other regions preferentially receive reward-related instruction that can guide fast adaptation to dynamic environmental contexts. We are exploring whether this regional functional specialization may result from the differential brain-wide circuits driving distinct populations of presynaptic olivary neurons.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A rapid and efficient learning rule for biological neural circuits</title>
       <link>https://dimvladkost.github.io/publication/sezener2021/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
@@ -66,24 +78,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://dimvladkost.github.io/publication/kostadinov2019_chapter/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Cerebellar learning, fast and slow</title>
-      <link>https://dimvladkost.github.io/project/fast_slow_learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimvladkost.github.io/project/fast_slow_learning/</guid>
-      <description>&lt;p&gt;In this project, I am employing chronic two-photon imaging and computational modelling to investigate changes in teaching signals conveyed to the cerebellum as animals learn and adapt in a sensorimotor integration task.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transformation of Purkinje cell population codes in the cerebellar nuclei</title>
-      <link>https://dimvladkost.github.io/project/pc_cbn_transform/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dimvladkost.github.io/project/pc_cbn_transform/</guid>
-      <description>&lt;p&gt;In this project, we are using Neuropixels probes to define how inhibitory Purkinje cell outputs are integrated by principal neurons in the cerebellar nuclei. This project is the primary PhD work of &lt;a href=&#34;https://github.com/m-beau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxime Beau&lt;/a&gt;, a PhD student in the Neural Computation laboratory.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

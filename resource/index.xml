@@ -5,7 +5,7 @@
     <link>https://dimvladkost.github.io/resource/</link>
       <atom:link href="https://dimvladkost.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
     <description>Resources</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimvladkost.github.io/media/icon_hu4f0bd1eb3c8c76839337839d88f88ed3_346244_512x512_fill_lanczos_center_3.png</url>
       <title>Resources</title>
@@ -13,14 +13,114 @@
     </image>
     
     <item>
-      <title>Academic job search</title>
+      <title>Academic job hunting</title>
       <link>https://dimvladkost.github.io/resource/academic_jobs/</link>
-      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://dimvladkost.github.io/resource/academic_jobs/</guid>
-      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
-&lt;p&gt;This post is the first in a series meant to serve as a guide for postdocs applying for academic jobs. This process is quite lonely and isolating, and it should be easier, since lots of us go through it every year. Here, I am trying to compile resources to make life easier for people going forward.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://dimvladkost.github.io/post/post1_jobs/&#34;&gt;This is how you link to other pages within the website&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;%27uploads/Kostadinov_CV.pdf%27&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;My goal here is to compile a set of resources for postdocs going on the academic job market. This can be a lonely and isolating process, but it can be much easier if you are prepared. I have tried to compile resources into various sections that are relative cohesive.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#useful-links&#34;&gt;Useful Links&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#application-package&#34;&gt;Application package&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#interview-questions&#34;&gt;Interview questions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#postdoc-seminar-series&#34;&gt;Postdoc seminar series&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#random-advice-that-i-got-and-found-to-be-useful&#34;&gt;Random advice&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;useful-links&#34;&gt;&lt;strong&gt;Useful Links&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Obviously, I am not the first person to have thought of such a thing, so here are some links to sites I used when I was applying:&lt;/p&gt;
+&lt;h3 id=&#34;1-the-best-academic-job-advice-aggregator-site-aroundhttpsdrbeccascientopiaorgtt-job-search-advice-aggregator&#34;&gt;1. &lt;a href=&#34;https://drbecca.scientopia.org/tt-job-search-advice-aggregator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The best academic job advice aggregator site around&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This has lots of resources from lots of different people. I generally found the links to ‘Physioprof’ aka Drugmonkey to be quite good.&lt;/p&gt;
+&lt;h3 id=&#34;2-additional-cover-letter-guidancehttpsmitcommlabmitedubroadcommkitcover-letter-for-a-faculty-position&#34;&gt;2. &lt;a href=&#34;https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Additional cover letter guidance&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;3-additional-teaching-statement-guidancehttpswwwscienceorgcontentarticlewriting-teaching-statement-rev2&#34;&gt;3. &lt;a href=&#34;https://www.science.org/content/article/writing-teaching-statement-rev2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Additional teaching statement guidance&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;4-two-good-links-to-example-chalk-talks&#34;&gt;4. Two good links to example chalk talks&lt;/h3&gt;
+&lt;p&gt;From a senior from at the &lt;a href=&#34;https://www.youtube.com/watch?v=03VVfk7edCc&amp;amp;ab_channel=GladstoneInstitutes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gladstone Institute&lt;/a&gt;.&lt;br&gt;
+From the &lt;a href=&#34;https://neuronline.sfn.org/professional-development/your-chalk-talk-questions-answered&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SfN website&lt;/a&gt;.&lt;/p&gt;
+&lt;h6 id=&#34;back-to-topresourceacademic_jobs&#34;&gt;&lt;a href=&#34;https://dimvladkost.github.io/resource/academic_jobs/&#34;&gt;Back to top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;application-package&#34;&gt;&lt;strong&gt;Application package&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Your application package will consist of several items that you will mostly be able to reuse with personalization for each institution. &lt;strong&gt;&lt;a href=&#34;https://bluelabcoats.wordpress.com/application-pkgs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This site&lt;/a&gt;&lt;/strong&gt; has a pretty good breakdown of what you need, so I will just add some sparing comments.&lt;/p&gt;
+&lt;h3 id=&#34;1-cover-letter&#34;&gt;1. Cover letter&lt;/h3&gt;
+&lt;h6 id=&#34;back-to-topresourceacademic_jobs-1&#34;&gt;&lt;a href=&#34;https://dimvladkost.github.io/resource/academic_jobs/&#34;&gt;Back to top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;interview-questions&#34;&gt;&lt;strong&gt;Interview questions&lt;/strong&gt;&lt;/h2&gt;
+&lt;h6 id=&#34;back-to-topresourceacademic_jobs-2&#34;&gt;&lt;a href=&#34;https://dimvladkost.github.io/resource/academic_jobs/&#34;&gt;Back to top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;postdoc-seminar-series&#34;&gt;&lt;strong&gt;Postdoc seminar series&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;A lot of these links come from a &lt;a href=&#34;https://twitter.com/SSebastianChoi/status/1523798454941609984&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twitter thread&lt;/a&gt; by Sebastian Choi and the ensuing replies. There are lots of these, they invariably have some cringy neuro-acronym, and everyone I know who has done one raves about how they are good practice for job talks. The best time to do these if you want to use them as practice is the year before you will apply, since many of them run in the spring (at the same time that you will hopefully be giving your actual job talks).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.brown.edu/carney/news-events/brainexpo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brown BrainExpo&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://neuro.hms.harvard.edu/events/incept-interdisciplinary-neuroscience-colloquia-extramural-postdoc-talks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard INCEPT&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mpfi.org/science/max-planck-neuromeets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Florida NeuroMEETS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://brain.mpg.de/81714/institute-seminars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Frankfurt mEPSCs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://icahn.mssm.edu/about/departments/neuroscience/seminars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mount Sinai MSNseminars&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://med.nyu.edu/departments-institutes/neuroscience/neuroscience-institute-the-community/events/spines-lectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU SPiNES&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.urmc.rochester.edu/del-monte-neuroscience/news/neuroyes.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rochester NeuroYES&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sainsburywellcome.org/web/content/emerging-neuroscientists-seminar-series-enss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sainsbury Wellcome Centre ENSS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://thecollege.syr.edu/neuroscience/neuroscience-seminar-series/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syracuse Early Career Research Seminar Series&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://neuroscience.uchicago.edu/post-doctoral-seminars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UChicago Rising Stars in Neuroscience&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.utsouthwestern.edu/education/medical-school/departments/neuroscience/sinaps-seminars.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UTSW SiNaPS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medschool.vanderbilt.edu/pharmacology/gpcr-postdoctoral-seminar-series/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vanderbilt GPCR&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.world-wide.org/Neuro/WWNeuRise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Wide NeuRise&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://medicine.yale.edu/neuroscience/events/synapses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale SYNAPSES&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6 id=&#34;back-to-topresourceacademic_jobs-3&#34;&gt;&lt;a href=&#34;https://dimvladkost.github.io/resource/academic_jobs/&#34;&gt;Back to top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;random-advice-that-i-got-and-found-to-be-useful&#34;&gt;&lt;strong&gt;Random advice that I got and found to be useful&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Assembled in no particular order:&lt;/p&gt;
+&lt;h3 id=&#34;1-write-research-statements-of-multiple-lengths&#34;&gt;1. Write research statements of multiple lengths&lt;/h3&gt;
+&lt;p&gt;Different universities will require research statements of different lengths - some ask for a single page, others give you up to 5 pages. Write multiple versions that can fit into these different formats. I would suggest starting with 1, 3, and 5 and then using formatting to get you to the right place as needed.&lt;/p&gt;
+&lt;h3 id=&#34;2-identify-the-advocates-and-detractors-in-your-interview&#34;&gt;2. Identify the advocates and detractors in your interview&lt;/h3&gt;
+&lt;p&gt;If you are lucky to get an interview, there will likely be people on the panel that are your advocates and others that are going to ask you &amp;lsquo;gotcha&amp;rsquo; questions. Usually, the advocates will ask you direct questions that you can answer easily, while the detractors will start with a preamble and ask you something very detailed/mean. Do not take the bait with these questions and get defensive - just answer as quickly as possible and move onto the next question. Interviews always fly by, and your goal should be to answer as many of their questions as you can.&lt;/p&gt;
+&lt;h3 id=&#34;3-final-hiring-decisions-are-all-about-fit&#34;&gt;3. Final hiring decisions are all about fit&lt;/h3&gt;
+&lt;p&gt;Once you get to the interview stage - it&amp;rsquo;s all about making the case that you are the right fit for the place. Do your research on the people interviewing you, and the place. This will help.&lt;/p&gt;
+&lt;h3 id=&#34;4-practice-giving-talks-early-and-often&#34;&gt;4. Practice giving talks early and often&lt;/h3&gt;
+&lt;p&gt;Get into the habit of giving talks early. Just do it! As soon as you have a story to present as a postdoc, go share it with the world and work out all the kinks. Think of it like a stand-up comedian working the small clubs before they get to the big stage.&lt;/p&gt;
+&lt;h3 id=&#34;5-make-a-graphical-summary-slide&#34;&gt;5. Make a graphical summary slide&lt;/h3&gt;
+&lt;p&gt;Don&amp;rsquo;t end your job talk on the acknowledgements slide. This is so boring! Make one additional slide with graphical summaries of your research accomplishments and your future aims, and put it at the end of your presentation. Once you are done with your talk, flip to this slide and solicit questions. This will allow the audience to ask you clearer, more directed questions.&lt;/p&gt;
+&lt;h3 id=&#34;6-utilize-your-universitys-resources&#34;&gt;6. Utilize your university&amp;rsquo;s resources&lt;/h3&gt;
+&lt;p&gt;Many universities offer workshops for people in these positions, but they are not always advertized well. Keep an eye out for them - they are probably somewhere in the spammy administrator emails you have been ignoring during your whole postdoc.&lt;/p&gt;
+&lt;h3 id=&#34;7-remember-that-you-are-an-awesome-scientists&#34;&gt;7. Remember that you are an awesome scientists.&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s probably true. Be proud of yourself and your work.&lt;/p&gt;
+&lt;h6 id=&#34;back-to-topresourceacademic_jobs-4&#34;&gt;&lt;a href=&#34;https://dimvladkost.github.io/resource/academic_jobs/&#34;&gt;Back to top&lt;/a&gt;&lt;/h6&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Words to live by</title>
+      <link>https://dimvladkost.github.io/resource/scientific_community/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/resource/scientific_community/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Somebody&amp;rsquo;s gotta get me some data around here&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;“If you are neutral in situations of injustice, you have chosen the side of the oppressor.”&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;There&amp;rsquo;s only one rule that I know of, babies-&amp;ldquo;God damn it, you&amp;rsquo;ve got to be kind.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -394,131 +494,6 @@ $$&lt;/p&gt;
       <link>https://dimvladkost.github.io/resource/neuro_resources/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://dimvladkost.github.io/resource/neuro_resources/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/media/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stuff</title>
-      <link>https://dimvladkost.github.io/resource/scientific_community/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://dimvladkost.github.io/resource/scientific_community/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;

@@ -10,15 +10,17 @@
   <url>
     <loc>https://dimvladkost.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://dimvladkost.github.io/resource/academic_jobs/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dimvladkost.github.io/resource/academic_jobs/</loc><lastmod>2022-06-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dimvladkost.github.io/resource/</loc><lastmod>2022-06-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dimvladkost.github.io/resource/scientific_community/</loc><lastmod>2022-06-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/tag/biologically-plausible-learning/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/project/dgn/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/project/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://dimvladkost.github.io/resource/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/tags/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -27,8 +29,6 @@
     <loc>https://dimvladkost.github.io/categories/</loc><lastmod>2022-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/project/cell_type_id/</loc><lastmod>2022-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://dimvladkost.github.io/tag/cerebellar-computation/</loc><lastmod>2022-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/category/demo/</loc><lastmod>2022-06-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -40,11 +40,17 @@
   <url>
     <loc>https://dimvladkost.github.io/publication-type/2/</loc><lastmod>2022-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://dimvladkost.github.io/tag/cerebellar-computation/</loc><lastmod>2022-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://dimvladkost.github.io/publication_types/</loc><lastmod>2022-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/publication/</loc><lastmod>2022-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/publication/kostadinov2022_perspective/</loc><lastmod>2022-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dimvladkost.github.io/project/pc_cbn_transform/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dimvladkost.github.io/project/fast_slow_learning/</loc><lastmod>2021-11-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/publication/steinmetz2021/</loc><lastmod>2021-04-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -76,8 +82,6 @@
   <url>
     <loc>https://dimvladkost.github.io/resource/neuro_resources/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://dimvladkost.github.io/resource/scientific_community/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://dimvladkost.github.io/resource/words/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/publication/ingesteves2018/</loc><lastmod>2018-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -96,8 +100,4 @@
   <url>
     <loc>https://dimvladkost.github.io/tag/thesis/</loc><lastmod>2015-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://dimvladkost.github.io/publication/lefebvre2012/</loc><lastmod>2012-08-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://dimvladkost.github.io/project/fast_slow_learning/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://dimvladkost.github.io/project/pc_cbn_transform/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://dimvladkost.github.io/publication/lefebvre2012/</loc><lastmod>2012-08-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
