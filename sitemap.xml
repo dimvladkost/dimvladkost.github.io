@@ -4,6 +4,8 @@
   
   
   <url>
+    <loc>https://dimvladkost.github.io/post/posts/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://dimvladkost.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -15,6 +17,8 @@
     <loc>https://dimvladkost.github.io/resource/</loc><lastmod>2022-06-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/resource/scientific_community/</loc><lastmod>2022-06-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dimvladkost.github.io/resource/words_of_wisdom/</loc><lastmod>2022-06-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/tag/biologically-plausible-learning/</loc><lastmod>2022-06-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -81,8 +85,6 @@
     <loc>https://dimvladkost.github.io/resource/charities_foundations/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/resource/neuro_resources/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://dimvladkost.github.io/resource/words/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://dimvladkost.github.io/publication/ingesteves2018/</loc><lastmod>2018-03-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
