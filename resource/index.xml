@@ -13,18 +13,32 @@
     </image>
     
     <item>
-      <title>Academic job hunting</title>
+      <title>Academic job hunting: resources and advice</title>
       <link>https://dimvladkost.github.io/resource/academic_jobs/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://dimvladkost.github.io/resource/academic_jobs/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;My goal here is to compile a set of resources for postdocs going on the academic job market. This can be a lonely and isolating process, but it can be much easier if you are prepared. Here, I have tried to compile resources into various sections that are relative cohesive. I am not posting any of the stuff I wrote for my own applications, but if you want to see them, you can contact me.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#useful-links&#34;&gt;Useful Links&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#application-package&#34;&gt;Application package&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#interviewing&#34;&gt;Interviewing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#negotiating&#34;&gt;Negotiating&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#postdoc-seminar-series&#34;&gt;Postdoc seminar series&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;#random-advice-that-i-got-and-found-to-be-useful&#34;&gt;Random advice&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;useful-links&#34;&gt;&lt;strong&gt;Useful Links&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Obviously, I am not the first person to have thought of such a thing, so here are some links to sites I used when I was applying:&lt;/p&gt;
@@ -152,14 +166,18 @@ This is a non-exhaustive list of other items you may have to provide: &lt;br&gt;
 &lt;p&gt;From a senior from at the &lt;a href=&#34;https://www.youtube.com/watch?v=03VVfk7edCc&amp;amp;ab_channel=GladstoneInstitutes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gladstone Institute&lt;/a&gt;.&lt;br&gt;
 From the &lt;a href=&#34;https://neuronline.sfn.org/professional-development/your-chalk-talk-questions-answered&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SfN website&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;panel-interviews&#34;&gt;Panel interviews&lt;/h3&gt;
-&lt;p&gt;The panel interview will usually consist of a short, rapid-fire set of questions. The good news is that these questions are fairly predictiable (they overlapped substantially in the ones I had, even across countries and continents), so you can prepare. Here is a list of the ones that I got asked consistently (see section below for master list): &lt;br&gt;
-(1) &amp;lsquo;Who are you?&amp;rsquo; or &amp;lsquo;Give us a brief summary of your research goals.&amp;rsquo; &lt;br&gt;
-(2) &amp;lsquo;What attracted you to this position?&amp;rsquo; aka &amp;lsquo;We know we&amp;rsquo;re awesome, but why do you think we&amp;rsquo;re awesome?&amp;rsquo; &lt;br&gt;
-(3) &amp;lsquo;How will you distinguish yourself from your current supervisor?&amp;rsquo; &lt;br&gt;
-(4) &amp;lsquo;What can you teach?&amp;rsquo; &lt;br&gt;
-(5) &amp;lsquo;How will you contribute to DEI initiatives at the university?&amp;rsquo; &lt;br&gt;
-(6) &amp;lsquo;How will you get funding and when?&amp;rsquo; &lt;br&gt;
-(7) &amp;lsquo;On which project is your first student/postdoc going to work? Why?&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;The panel interview will usually consist of a short, rapid-fire set of questions. The good news is that these questions are fairly predictiable (they overlapped substantially in the ones I had, even across countries and continents), so you can prepare.&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary style=&#34;font-weight:bold; font-size:20px&#34;&gt; Here are a few questions I got consistently: &lt;/summary&gt;
+(1) &#39;Who are you?&#39; or &#39;Give us a brief summary of your research goals.&#39; &lt;br&gt;
+(2) &#39;What attracted you to this position?&#39; aka &#39;We know we&#39;re awesome, but why do you think we&#39;re awesome?&#39; &lt;br&gt;
+(3) &#39;How will you distinguish yourself from your current supervisor?&#39; &lt;br&gt;
+(4) &#39;What can you teach?&#39; &lt;br&gt;
+(5) &#39;How will you contribute to DEI initiatives at the university?&#39; &lt;br&gt;
+(6) &#39;How will you get funding and when?&#39; &lt;br&gt;
+(7) &#39;On which project is your first student/postdoc going to work? Why?&#39;
+&lt;/details&gt;
+&lt;p&gt;&lt;a href=&#34;#interview-questions&#34;&gt;Full list is here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In generally, try to answer concisely. There is never enough time, and the panel has a set of questions they want to get through. It&amp;rsquo;s ok to take a second to think of an answer, but once you start talking, try to finish quickly. Finally, keep im mind that there are good cops and bad cops on your panel (discussed below in &lt;a href=&#34;#random-advice-that-i-got-and-found-to-be-useful&#34;&gt;Random advice&lt;/a&gt;).&lt;/p&gt;
 &lt;h3 id=&#34;meeting-faculty-1-1&#34;&gt;Meeting faculty 1-1&lt;/h3&gt;
 &lt;p&gt;Honestly, it&amp;rsquo;s hard to know exactly what to expect in these meetings. Some people will want to shoot the shit, others will want to talk about your seminar/chalk talk, and yet others may have specific questions that they have been tasked with asking you by the search committee. The key is to do your research on everyone you are speaking to (you will likely get a list ahead of time), and to be able to hold a conversation for the 30 minutes. These folks are evaluating how you will be as a colleague, so you should try to leave them with the impression that they wouldn&amp;rsquo;t mind seeing your face every day for the next decade. Read their websites, know what they work on, figure out how they get their funding, see if you know people in common. You never know when this may come in handy.&lt;/p&gt;
@@ -190,7 +208,7 @@ Remember that in the UK, you are essentially applying for your startup with thes
 &lt;details&gt;
   &lt;summary&gt;(4b) Which fellowships/grants will you apply for and when? (US edition)&lt;/summary&gt;
 In the US, it is assumed that you will be applying for R01’s by ~year 3 and potentially some vanity fellowships before this. For these vanity fellowships (e.g. Sloane, Klingenstein, Searle, etc.), you should look up what recent hires have gotten. Usually, the departments have connections to some of these and win them consistently. This is another way to show that you’ve done your research on the department. &lt;br&gt;
-With regard to the R01s, you should have a sense of the preliminary data you would want to have in order to apply for a grant. This would also inform how you would allocate your startup. Be aware of the connections between these things?
+With regard to the R01s, you should have a sense of the preliminary data you would want to have in order to apply for a grant. This would also inform how you would allocate your startup. Be aware of the connections between these things!
 &lt;/details&gt;
 &lt;details&gt;
   &lt;summary&gt;(5) With whom in the department/university would you collaborate? &lt;/summary&gt;
@@ -252,13 +270,13 @@ This should be a 2-3 sentence summary of your biography and research goals. &lt;
 &lt;p&gt;Lots of places run postdoc seminar series that you can use to practice giving job talks. A lot of the links below come from a &lt;a href=&#34;https://twitter.com/SSebastianChoi/status/1523798454941609984&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twitter thread&lt;/a&gt; by Sebastian Choi and the ensuing replies. There are lots of these seminars, they invariably have some cringy neuro-acronym, and everyone I know who has done one raves about how they are really good practice. The best time to do these if you want to use them as practice is the year before you will apply, since many of them run in the spring (at the same time that you will hopefully be giving your actual job talks).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.brown.edu/carney/news-events/brainexpo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brown BrainExpo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.brown.edu/carney/news-events/brainexpo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brown BrainExpo&lt;/a&gt; - deadline 29 July, 2022&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://neuro.hms.harvard.edu/events/incept-interdisciplinary-neuroscience-colloquia-extramural-postdoc-talks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard INCEPT&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://mpfi.org/science/max-planck-neuromeets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Florida NeuroMEETS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mpfi.org/science/max-planck-neuromeets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Florida NeuroMEETS&lt;/a&gt; - deadline 10 August, 2022&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://brain.mpg.de/81714/institute-seminars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Frankfurt mEPSCs&lt;/a&gt;&lt;/p&gt;
@@ -267,16 +285,16 @@ This should be a 2-3 sentence summary of your biography and research goals. &lt;
 &lt;p&gt;&lt;a href=&#34;https://icahn.mssm.edu/about/departments/neuroscience/seminars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mount Sinai MSNseminars&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://med.nyu.edu/departments-institutes/neuroscience/neuroscience-institute-the-community/events/spines-lectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU SPiNES&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://med.nyu.edu/departments-institutes/neuroscience/neuroscience-institute-the-community/events/spines-lectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU SPiNES&lt;/a&gt; - deadline 9 September, 2022&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.urmc.rochester.edu/del-monte-neuroscience/news/neuroyes.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rochester NeuroYES&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.sainsburywellcome.org/web/content/emerging-neuroscientists-seminar-series-enss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sainsbury Wellcome Centre ENSS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sainsburywellcome.org/web/content/emerging-neuroscientists-seminar-series-enss&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sainsbury Wellcome Centre ENSS&lt;/a&gt; - deadline 10 August, 2022&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://thecollege.syr.edu/neuroscience/neuroscience-seminar-series/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syracuse Early Career Research Seminar Series&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thecollege.syr.edu/neuroscience/neuroscience-seminar-series/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syracuse Early Career Research Seminar Series&lt;/a&gt; - seemingly no specific deadline&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://neuroscience.uchicago.edu/post-doctoral-seminars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UChicago Rising Stars in Neuroscience&lt;/a&gt;&lt;/p&gt;
@@ -313,6 +331,228 @@ This should be a 2-3 sentence summary of your biography and research goals. &lt;
 &lt;h3 id=&#34;7-remember-that-you-are-an-awesome-scientists&#34;&gt;7. Remember that you are an awesome scientists.&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s probably true. Be proud of yourself and your work.&lt;/p&gt;
 &lt;h6 id=&#34;back-to-topresourceacademic_jobs-5&#34;&gt;&lt;a href=&#34;https://dimvladkost.github.io/resource/academic_jobs/&#34;&gt;Back to top&lt;/a&gt;&lt;/h6&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a better scientific community (neuro-centric)</title>
+      <link>https://dimvladkost.github.io/resource/scientific_community/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/resource/scientific_community/</guid>
+      <description>&lt;p&gt;How much time do you want for your &amp;lsquo;progress&amp;rsquo;? - JB&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;primary-literature-essays-and-reviews-that-quantify-inequality&#34;&gt;Primary literature, essays, and reviews that quantify inequality&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41593-020-0658-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dworkin et., 2020, The extent and drivers of gender imbalance in neuroscience reference lists&lt;/a&gt; - it&amp;rsquo;s even  worse than you think!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41586-022-04966-w?WT.ec_id=NATURE-202206&amp;amp;sap-outbound-id=8FC4BC374CF91729D50294DCD22C1686BC099272&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ross et al., 2022, Women are Credited Less in Science than are Men&lt;/a&gt; - No shit!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nexus.od.nih.gov/all/2022/06/14/research-project-grant-funding-rates-and-principal-investigator-race-and-ethnicity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIH&amp;rsquo;s own analysis showing that the funding gap still sucks&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.cell.2021.01.011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fund Black Scientists&lt;/a&gt; - just do it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://elifesciences.org/articles/52232&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indira Raman: Power analysis&lt;/a&gt; - finding the strength to persevere even when things aren&amp;rsquo;t great.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;organizations-and-resources&#34;&gt;Organizations and resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://biaswatchneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiasWatchNeuro&lt;/a&gt;
+Specifically, check out their &lt;a href=&#34;https://biaswatchneuro.com/information-and-links/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;databases of women scientists and speakers from diverse backgrounds&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.blackinneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black in Neuro&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://anneslist.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Women in systems neuroscience&lt;/a&gt; - Need some speakers? Here&amp;rsquo;s a list.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://in2scienceuk.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in2scienceUK&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.alba.network/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alba Network&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate change</title>
+      <link>https://dimvladkost.github.io/resource/climate_change/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/resource/climate_change/</guid>
+      <description>&lt;p&gt;abcd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Democracy, rights, and anti-corruption</title>
+      <link>https://dimvladkost.github.io/resource/democracy/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/resource/democracy/</guid>
+      <description>&lt;p&gt;&amp;lsquo;The price of freedom is eternal vigilance.&amp;rsquo; - TJ&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;organizations-fighting-to-keep-the-world-free-and-habitable&#34;&gt;Organizations fighting to keep the world free and habitable&lt;/h2&gt;
+&lt;h3 id=&#34;usa&#34;&gt;USA&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://votesaveamerica.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vote Save America&lt;/a&gt; - Resource for info and election volunteering opportunities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.democracydocket.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Democracy Docket&lt;/a&gt; - Litigating for democracy&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://thirdact.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Third Act&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;europe&#34;&gt;Europe&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://acf.international/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Anti-Corruption Foundation&lt;/a&gt; - Alexei Navalny&amp;rsquo;s organization in exile&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ledbydonkeys.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Led by Donkeys&lt;/a&gt; - UK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bellingcat.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bellingcat&lt;/a&gt; - Investigative journalists and educators&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://meduza.io/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meduza&lt;/a&gt; - Independent news in Russia, now based in Latvia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kyivindependent.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kyiv Independent&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more digestible content, follow these folks on twitter&lt;/p&gt;
+&lt;h3 id=&#34;global&#34;&gt;Global&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.magnitskyawards.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Magnitsky Awards&lt;/a&gt; and &lt;a href=&#34;https://www.magnitskyawards.com/about/the-global-magnitsky-justice-campaign/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Justice Campaign&lt;/a&gt; - Putting human rights offenders on sanctions lists since 2012.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;helping-humans&#34;&gt;Helping humans&lt;/h2&gt;
+&lt;h3 id=&#34;womens-health&#34;&gt;Women&amp;rsquo;s Health&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://rapecrisis.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rape Crisis England and Wales&lt;/a&gt; - in the UK, obvs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.plannedparenthood.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planned Parenthood&lt;/a&gt; and its &lt;a href=&#34;https://www.plannedparenthoodaction.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Politicial Action Fund&lt;/a&gt; - in the US&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;helping-the-vulnerable-around-the-world&#34;&gt;Helping the vulnerable around the world&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://wck.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Central Kitchen&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuroscience Resources</title>
+      <link>https://dimvladkost.github.io/resource/neuro_resources/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/resource/neuro_resources/</guid>
+      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;h3 id=&#34;two-photon-imaging-analysis&#34;&gt;Two-photon imaging analysis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://suite2p.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Suite2p&lt;/a&gt; - Image processing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/MLspike/spikes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLspike&lt;/a&gt; - Spike detection, works well for Purkinje cell dendrites&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;electrophysiology-analysis&#34;&gt;Electrophysiology analysis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/MouseLand/Kilosort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kilosort&lt;/a&gt; - Spike sorting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://phy.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phy&lt;/a&gt; - Ephys data curation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/m-beau/NeuroPyxels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NPyx&lt;/a&gt; - Ephys data analysis (designed for Neuropixels)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;interpretting-your-data&#34;&gt;Interpretting your data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://glmnet.stanford.edu/articles/glmnet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GLMnet&lt;/a&gt; - Generalized Linear Model fitting software  &lt;br&gt;
+Check out Jonathan Pillow&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=NFeGW5ljUoI&amp;amp;t=2642s&amp;amp;ab_channel=CosyneTalks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lecture at Cosyne 2018&lt;/a&gt; for a good primer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/spikes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spikes&lt;/a&gt; - pretty accessible computational neuro book&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://mitpress.mit.edu/books/foundations-cellular-neurophysiology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Foundations of Cellular Neurophyisiology&lt;/a&gt; - best cellular neurophysiology book&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://global.oup.com/academic/product/dendrites-9780198745273?cc=gb&amp;amp;lang=en&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dendrites&lt;/a&gt; - &amp;lsquo;The fundamental computational units of the nervous system&amp;rsquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/book/10.1007/978-3-662-13147-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Cerebellum as a Neuronal Machine&lt;/a&gt; - classic&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fun-stuff&#34;&gt;Fun stuff&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/AkiyoshiKitaoka&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Best visual illusions twitter account&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://backyardbrains.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Backyard Brains&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delicious things in London</title>
+      <link>https://dimvladkost.github.io/resource/charities_foundations/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/resource/charities_foundations/</guid>
+      <description>&lt;p&gt;Pastries are also a human right. - Me&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;pastries&#34;&gt;Pastries&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best Pain au chocolat: &lt;br&gt;
+&lt;a href=&#34;https://www.lbpedlar.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Little Bread Pedlar&lt;/a&gt; - pastries are available at Monmouth Coffee&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best pastry (non-Pain au chocolat): &lt;br&gt;
+Kouign amann from &lt;a href=&#34;https://mielbakery.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miel Bakery&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best donut: &lt;br&gt;
+Lemon curd filled from &lt;a href=&#34;https://stjohnrestaurant.com/a/restaurants/bakery-arch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;St. John Bakery&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;best-coffeebrunch&#34;&gt;Best coffee/brunch&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.monmouthcoffee.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Monmouth coffee&lt;/a&gt; - fancy coffee that&amp;rsquo;s not pretentious&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://o-juliets.arch2order.com/menu/juliets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Juliet&amp;rsquo;s Quality Food&lt;/a&gt; - brunch!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;best-sub&#34;&gt;Best sub&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doms-subs.slerp.com/order&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dom&amp;rsquo;s subs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;best-bulgarian-store&#34;&gt;Best Bulgarian store&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://goo.gl/maps/Ho3YEwHgJ9VkS2GQ9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balkanika&lt;/a&gt; - also happens to be across the road from Juliet&amp;rsquo;s&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
