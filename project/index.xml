@@ -5,12 +5,21 @@
     <link>https://dimvladkost.github.io/project/</link>
       <atom:link href="https://dimvladkost.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dimvladkost.github.io/media/icon_hu4f0bd1eb3c8c76839337839d88f88ed3_346244_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://dimvladkost.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Cerebellar cell type classification</title>
+      <link>https://dimvladkost.github.io/project/cell_type_id/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimvladkost.github.io/project/cell_type_id/</guid>
+      <description>&lt;p&gt;We are combining cell type-specific optogenetics, electrophysiology, and machine learning to develop methods to classify cerebellar neurons based on their unique functional identities. This project is a collaboration between several cerebellar labs using high-density extracellular electrophysiology probes in multiple species (mouse, rat, and macaque). Our aim is to provide a fully integrated open-source toolkit for automatic cell type classification of high-density recordings in the cerebellum that will greatly facilitate a circuit-wide understanding of the contribution of different cell types to cerebellar-dependent behaviours.&lt;/p&gt;
+&lt;!-- We are combining cell type-specific optogenetics, electrophysiology, and machine learning to develop methods to classify cerebellar neurons based on their unique functional identities. This project is a collaboration between several cerebellar labs ([Häusser Lab](http://www.dendrites.org), UCL; [Cohen Lab](https://gondabrain.biu.ac.il/en/node/268), Bar Ilan University; [Medina Lab](https://www.bcm.edu/people-search/javier-medina-26564), Baylor University; [Hull](https://www.neuro.duke.edu/research/faculty-labs/hull-lab) and [Lisberger](https://www.neuro.duke.edu/research/faculty-labs/lisberger-lab) Labs, Duke University) using high-density extracellular electrophysiology probes in multiple species (mouse, rat, and macaque). Our aim is to provide a fully integrated open-source toolkit for automatic cell type classification of high-density recordings in the cerebellum that will greatly facilitate a circuit-wide understanding of the contribution of different cell types to cerebellar-dependent behaviours.  --&gt;</description>
+    </item>
     
     <item>
       <title>Cerebellar learning, fast and slow</title>
@@ -32,15 +41,6 @@
 &lt;p&gt;Importantly,  DGNs  have  structural  and  functional  similarities  to cerebellar circuits, where (1) climbing fibers provide a well-defined feedback signal (&lt;a href=&#34;https://doi.org/10.1146/annurev-neuro-080317-061948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raymond and Medina, 2018&lt;/a&gt;), (2) the input-output transformation is relatively linear (&lt;a href=&#34;https://doi.org/10.1113/jphysiol.1980.sp013357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Llinás and Sugimori, 1980&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.1523/jneurosci.4507-05.2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Walter and Khodakhah, 2006&lt;/a&gt;), and (3) molecular layer interneurons could act as local gates on learning (&lt;a href=&#34;https://doi.org/10.1523/JNEUROSCI.15-04-02777.1995&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Callaway et al., 1995&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.7554/eLife.36246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaffield et al., 2018&lt;/a&gt;; &lt;a href=&#34;https://doi.org/10.1016/j.tins.2010.08.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jörntell et al., 2010&lt;/a&gt;). To make this link explicit, we have performed two-photon calcium imaging experiments of Purkinje cell dendrites and molecular layer interneurons in awake mice. With these recordings, we find  that single interneurons suppress activity in individual dendritic branches of Purkinje cells in vivo, validating a  key  feature  of  the  model. Thus, our theoretical and experimental results draw a specific link between learning in DGNs and the functional architecture of the cerebellum. The generality of the DGN architecture should also allow this algorithm to be implemented in a range of networks in the mammalian brain, including the neocortex.&lt;/p&gt;
 &lt;p&gt;This project is a collaboration with researchers at the &lt;a href=&#34;https://www.ucl.ac.uk/gatsby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gatsby Computational Neuroscience Unit&lt;/a&gt; at UCL and &lt;a href=&#34;https://www.deepmind.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google DeepMind&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Cerebellar cell type classification</title>
-      <link>https://dimvladkost.github.io/project/cell_type_id/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://dimvladkost.github.io/project/cell_type_id/</guid>
-      <description>&lt;p&gt;We are combining cell type-specific optogenetics, electrophysiology, and machine learning to develop methods to classify cerebellar neurons based on their unique functional identities. This project is a collaboration between several cerebellar labs using high-density extracellular electrophysiology probes in multiple species (mouse, rat, and macaque). Our aim is to provide a fully integrated open-source toolkit for automatic cell type classification of high-density recordings in the cerebellum that will greatly facilitate a circuit-wide understanding of the contribution of different cell types to cerebellar-dependent behaviours.&lt;/p&gt;
-&lt;!-- We are combining cell type-specific optogenetics, electrophysiology, and machine learning to develop methods to classify cerebellar neurons based on their unique functional identities. This project is a collaboration between several cerebellar labs ([Häusser Lab](http://www.dendrites.org), UCL; [Cohen Lab](https://gondabrain.biu.ac.il/en/node/268), Bar Ilan University; [Medina Lab](https://www.bcm.edu/people-search/javier-medina-26564), Baylor University; [Hull](https://www.neuro.duke.edu/research/faculty-labs/hull-lab) and [Lisberger](https://www.neuro.duke.edu/research/faculty-labs/lisberger-lab) Labs, Duke University) using high-density extracellular electrophysiology probes in multiple species (mouse, rat, and macaque). Our aim is to provide a fully integrated open-source toolkit for automatic cell type classification of high-density recordings in the cerebellum that will greatly facilitate a circuit-wide understanding of the contribution of different cell types to cerebellar-dependent behaviours.  --&gt;</description>
     </item>
     
     <item>
